@@ -1,0 +1,3 @@
+Cow: Cows are domesticated animals primarily raised for their milk, meat, and labor.
+Fish: Fish are cold-blooded aquatic animals that have gills, scales, and fins.
+Snake: Snakes are elongated, legless, carnivorous reptiles found in a variety of habitats.
